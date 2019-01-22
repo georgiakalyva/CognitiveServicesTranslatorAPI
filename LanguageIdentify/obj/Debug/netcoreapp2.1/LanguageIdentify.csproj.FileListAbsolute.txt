@@ -1,0 +1,11 @@
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\bin\Debug\netcoreapp2.1\LanguageIdentify.deps.json
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\bin\Debug\netcoreapp2.1\LanguageIdentify.runtimeconfig.json
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\bin\Debug\netcoreapp2.1\LanguageIdentify.runtimeconfig.dev.json
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\bin\Debug\netcoreapp2.1\LanguageIdentify.dll
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\obj\Debug\netcoreapp2.1\LanguageIdentify.csprojAssemblyReference.cache
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\obj\Debug\netcoreapp2.1\LanguageIdentify.csproj.CoreCompileInputs.cache
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\obj\Debug\netcoreapp2.1\LanguageIdentify.AssemblyInfoInputs.cache
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\obj\Debug\netcoreapp2.1\LanguageIdentify.AssemblyInfo.cs
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\bin\Debug\netcoreapp2.1\LanguageIdentify.pdb
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\obj\Debug\netcoreapp2.1\LanguageIdentify.dll
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\LanguageIdentify\obj\Debug\netcoreapp2.1\LanguageIdentify.pdb

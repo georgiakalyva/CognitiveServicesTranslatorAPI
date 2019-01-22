@@ -1,0 +1,11 @@
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\bin\Debug\netcoreapp2.1\TextTranslation.deps.json
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\bin\Debug\netcoreapp2.1\TextTranslation.runtimeconfig.json
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\bin\Debug\netcoreapp2.1\TextTranslation.runtimeconfig.dev.json
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\bin\Debug\netcoreapp2.1\TextTranslation.dll
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\obj\Debug\netcoreapp2.1\TextTranslation.csproj.CoreCompileInputs.cache
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\obj\Debug\netcoreapp2.1\TextTranslation.AssemblyInfoInputs.cache
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\obj\Debug\netcoreapp2.1\TextTranslation.AssemblyInfo.cs
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\bin\Debug\netcoreapp2.1\TextTranslation.pdb
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\obj\Debug\netcoreapp2.1\TextTranslation.csprojAssemblyReference.cache
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\obj\Debug\netcoreapp2.1\TextTranslation.dll
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\TextTranslation\obj\Debug\netcoreapp2.1\TextTranslation.pdb

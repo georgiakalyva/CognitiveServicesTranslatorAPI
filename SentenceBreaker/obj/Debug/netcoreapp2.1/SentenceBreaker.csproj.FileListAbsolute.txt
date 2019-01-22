@@ -1,0 +1,11 @@
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\bin\Debug\netcoreapp2.1\SentenceBreaker.deps.json
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\bin\Debug\netcoreapp2.1\SentenceBreaker.runtimeconfig.json
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\bin\Debug\netcoreapp2.1\SentenceBreaker.runtimeconfig.dev.json
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\bin\Debug\netcoreapp2.1\SentenceBreaker.dll
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\obj\Debug\netcoreapp2.1\SentenceBreaker.csproj.CoreCompileInputs.cache
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\obj\Debug\netcoreapp2.1\SentenceBreaker.AssemblyInfoInputs.cache
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\obj\Debug\netcoreapp2.1\SentenceBreaker.AssemblyInfo.cs
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\bin\Debug\netcoreapp2.1\SentenceBreaker.pdb
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\obj\Debug\netcoreapp2.1\SentenceBreaker.csprojAssemblyReference.cache
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\obj\Debug\netcoreapp2.1\SentenceBreaker.dll
+c:\users\georgia.k\source\repos\CognitiveServicesTranslator\SentenceBreaker\obj\Debug\netcoreapp2.1\SentenceBreaker.pdb
