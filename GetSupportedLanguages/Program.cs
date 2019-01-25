@@ -2,7 +2,12 @@
 using System.Net.Http;
 
 namespace GetSupportedLanguages
-{
+{ /// For more tutorials and news find me:
+  /// Blog: http://www.codestories.gr
+  /// Facebook: https://www.facebook.com/codestoriesgr/
+  /// Twitter: https://twitter.com/GeorgiaKalyva
+  /// LinkedIn: https://www.linkedin.com/in/georgiakalyva
+  /// </summary>
     class Program
     {
         static void Languages()
