@@ -19,8 +19,10 @@ namespace TextTranslation
     {
         static void Translate()
         {
+            string SourceLanguage = "en";
+            string DestinationLanguage = "pt";
             string host = "https://api.cognitive.microsofttranslator.com";
-            string route = "/translate?api-version=3.0&to=de&to=it";
+            string route = "/translate?api-version=3.0&to="+ SourceLanguage + "&to="+ DestinationLanguage;
             string subscriptionKey = "enter your subscription key";
 
             System.Object[] body = new System.Object[] { new { Text = @"Hello this is a CodeStories post." } };
