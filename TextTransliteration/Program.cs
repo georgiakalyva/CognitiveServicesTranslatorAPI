@@ -18,8 +18,11 @@ namespace TextTransliteration
     {
         static void TransliterateText()
         {
+            string FromScript = "jpan";
+            string ToScript = "latn";
+
             string host = "https://api.cognitive.microsofttranslator.com";
-            string route = "/transliterate?api-version=3.0&language=ja&fromScript=jpan&toScript=latn";
+            string route = "/transliterate?api-version=3.0&language=ja&fromScript="+FromScript+"&toScript="+ToScript;
             string subscriptionKey = "enter your subscription key";
 
             System.Object[] body = new System.Object[] { new { Text = @"こんにちは" } };

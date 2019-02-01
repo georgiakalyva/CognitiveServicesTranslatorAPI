@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\LanguageIdentify\\LanguageIdentify.csproj",
+      "projectUniqueName": "C:\\Temp\\CognitiveServicesTranslatorAPI\\LanguageIdentify\\LanguageIdentify.csproj",
       "projectName": "LanguageIdentify",
-      "projectPath": "c:\\users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\LanguageIdentify\\LanguageIdentify.csproj",
+      "projectPath": "C:\\Temp\\CognitiveServicesTranslatorAPI\\LanguageIdentify\\LanguageIdentify.csproj",
       "packagesPath": "C:\\Users\\georgia.k\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\LanguageIdentify\\obj\\",
+      "outputPath": "C:\\Temp\\CognitiveServicesTranslatorAPI\\LanguageIdentify\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

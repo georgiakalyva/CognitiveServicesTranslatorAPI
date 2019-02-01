@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\GetSupportedLanguages\\GetSupportedLanguages.csproj",
+      "projectUniqueName": "C:\\Temp\\CognitiveServicesTranslatorAPI\\GetSupportedLanguages\\GetSupportedLanguages.csproj",
       "projectName": "GetSupportedLanguages",
-      "projectPath": "C:\\Users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\GetSupportedLanguages\\GetSupportedLanguages.csproj",
+      "projectPath": "C:\\Temp\\CognitiveServicesTranslatorAPI\\GetSupportedLanguages\\GetSupportedLanguages.csproj",
       "packagesPath": "C:\\Users\\georgia.k\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\GetSupportedLanguages\\obj\\",
+      "outputPath": "C:\\Temp\\CognitiveServicesTranslatorAPI\\GetSupportedLanguages\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

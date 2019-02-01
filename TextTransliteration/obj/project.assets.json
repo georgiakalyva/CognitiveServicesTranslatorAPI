@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\TextTransliteration\\TextTransliteration.csproj",
+      "projectUniqueName": "C:\\Temp\\CognitiveServicesTranslatorAPI\\TextTransliteration\\TextTransliteration.csproj",
       "projectName": "TextTransliteration",
-      "projectPath": "c:\\users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\TextTransliteration\\TextTransliteration.csproj",
+      "projectPath": "C:\\Temp\\CognitiveServicesTranslatorAPI\\TextTransliteration\\TextTransliteration.csproj",
       "packagesPath": "C:\\Users\\georgia.k\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\TextTransliteration\\obj\\",
+      "outputPath": "C:\\Temp\\CognitiveServicesTranslatorAPI\\TextTransliteration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

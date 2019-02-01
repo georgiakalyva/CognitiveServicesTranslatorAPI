@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\SentenceBreaker\\SentenceBreaker.csproj",
+      "projectUniqueName": "C:\\Temp\\CognitiveServicesTranslatorAPI\\SentenceBreaker\\SentenceBreaker.csproj",
       "projectName": "SentenceBreaker",
-      "projectPath": "c:\\users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\SentenceBreaker\\SentenceBreaker.csproj",
+      "projectPath": "C:\\Temp\\CognitiveServicesTranslatorAPI\\SentenceBreaker\\SentenceBreaker.csproj",
       "packagesPath": "C:\\Users\\georgia.k\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\georgia.k\\source\\repos\\CognitiveServicesTranslator\\SentenceBreaker\\obj\\",
+      "outputPath": "C:\\Temp\\CognitiveServicesTranslatorAPI\\SentenceBreaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
